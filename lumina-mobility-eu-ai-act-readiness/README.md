@@ -1,6 +1,7 @@
-<p align="center"><img src="assets/banner.jpg" alt="Project 05 — EU AI Act Readiness Assessment — Lumina Mobility" width="100%"></p>
-
 # EU AI Act Readiness Assessment
+
+<img width="1600" height="520" alt="lumina-mobility-eu-ai-act-readiness-banner" src="https://github.com/user-attachments/assets/3ca35356-9034-40ae-841c-45b44e6252b9" />
+
 ### Lumina Mobility — The first deliverable before committing budget to full Articles 8–15 implementation
 
 ![Domain](https://img.shields.io/badge/Domain-AI%20Regulation-468cff) ![Sector](https://img.shields.io/badge/Sector-Mobility%20SaaS-1f2a44) ![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Art.%206%2C%209%E2%80%9314%20%7C%20Annex%20III-1f2a44) ![Omnibus](https://img.shields.io/badge/Reg.%20(EU)%202026%2F1744-Omnibus%20reflected-1f2a44) ![Status](https://img.shields.io/badge/Status-Complete-2ea043)
@@ -108,5 +109,3 @@ Lumina Mobility is fictional. This is a governance portfolio exercise, not legal
 
 ---
 
-**Augustine Ozor** — AI Governance & Cybersecurity GRC · Doha, Qatar
-[github.com/AugustineOzor](https://github.com/AugustineOzor) · augustineozor@gmail.com
